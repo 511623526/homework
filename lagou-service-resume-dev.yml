@@ -1,4 +1,5 @@
- mysql:
-   url: dev-http://192.168.12.128:3306/zdy_mybatis
- lagou:
-   message: hello lagou 400
+ geteway:
+   register:
+     max:
+       number: 10
+     time: 1
